@@ -1,0 +1,4 @@
+﻿  CtoF.cpp
+C:\Users\jesse.viitanen\source\repos\GPcpp\SmallAssignments\CtoF\CtoF.cpp(6,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\jesse.viitanen\source\repos\GPcpp\SmallAssignments\CtoF\CtoF.cpp(15,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CtoF.vcxproj -> C:\Users\jesse.viitanen\source\repos\GPcpp\SmallAssignments\Debug\CtoF.exe

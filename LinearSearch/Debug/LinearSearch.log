@@ -1,0 +1,4 @@
+﻿  LinearSearch.cpp
+C:\Users\jesse.viitanen\source\repos\GPcpp\SmallAssignments\LinearSearch\LinearSearch.cpp(9,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jesse.viitanen\source\repos\GPcpp\SmallAssignments\LinearSearch\LinearSearch.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+  LinearSearch.vcxproj -> C:\Users\jesse.viitanen\source\repos\GPcpp\SmallAssignments\Debug\LinearSearch.exe

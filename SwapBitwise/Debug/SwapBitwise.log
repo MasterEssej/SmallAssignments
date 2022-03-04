@@ -1,0 +1,3 @@
+﻿  SwapBitwise.cpp
+C:\Users\jesse.viitanen\source\repos\GPcpp\SmallAssignments\SwapBitwise\SwapBitwise.cpp(6,20): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  SwapBitwise.vcxproj -> C:\Users\jesse.viitanen\source\repos\GPcpp\SmallAssignments\Debug\SwapBitwise.exe
